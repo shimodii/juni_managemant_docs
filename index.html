@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fa">
+
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+    <title>مستندات جونی منیجمنت</title>
+    <link href="https://unpkg.com/docute-fa@0.1.7/dist/docute.css" rel="stylesheet">
+    <link href="style/main.css" rel="stylesheet">
+</head>
+
+<body>
+    <div id="docute"></div>
+    <script src="https://unpkg.com/docute-fa@0.1.7/dist/docute.js"></script>
+    <script>
+        new Docute({
+            target: '#docute',
+            title: 'مستندات جونی منیجمنت',
+            highlight: ['css','markdown'],
+            router: {
+                mode: 'history'
+            },
+            detectSystemDarkTheme: true,
+            darkThemeToggler: true,
+            sourcePath: '/docs',
+            sidebar: [{
+                title: 'راهنما',
+                children: [{
+                    title: 'مقدمه',
+                    link: '/intro'
+                }]
+            },{
+                title: 'پیشرفته',
+                children: []
+            },{
+                title: 'منابع',
+                link: '/docs/resources.md'
+            }, {
+                title: 'پس‌گفتار',
+                link: '/credits'
+            }, 
+            ],
+            footer: `
+          <div style="border-top:1px solid var(--border-color);padding-top:30px;margin: 40px 0;color:#999999;font-size: .9rem;">
+          &copy; ${new Date().getFullYear()}.
+           ساخته شده با ❤️ 
+            بوسیله‌ی
+            <a href="https://github.com/sadraiiali/docute-fa">داکیوت فارسی</a>
+             </div>
+          `
+        })
+    </script>
+</body>
+
+</html>
