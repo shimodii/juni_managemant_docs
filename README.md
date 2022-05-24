@@ -1,2 +1,2 @@
-# juni_managemant_docs
-مستندات پروژه‌ی جونی منیجمنت :D
+# juni_managemant_docs :D
+# مستندات پروژه‌ی جونی منیجمنت
