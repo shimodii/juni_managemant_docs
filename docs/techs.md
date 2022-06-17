@@ -40,7 +40,7 @@
 لوگو رو که دیگه نگم براتون پر از مفهوم و معنا
 برای لوگو هم از نرم‌افزار متن باز گیمپ استفاده شده که خودش ۲ نمره مثبت داره خدایی
 
-![logo](/juni_logo.png)
+![logo](https://raw.githubusercontent.com/am-shm/juni_managemant_docs/main/docs/juni_logo.png)
 
 <br>
 

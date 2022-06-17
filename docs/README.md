@@ -5,4 +5,4 @@
 #### جونی، زیبا پیشرو مطمئن
 
 
-![JuniLogo](./juni_logo.png)
+![JuniLogo](https://raw.githubusercontent.com/am-shm/juni_managemant_docs/main/docs/juni_logo.png)
