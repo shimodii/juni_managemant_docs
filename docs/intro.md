@@ -15,4 +15,4 @@
 در سمت راست صفحه بخش نوآوری ها قابل مشاهده میباشد
 
 ### لوگوی ثبت شده :)
-![logo](https://raw.githubusercontent.com/am-shm/juni_managemant_docs/main/docs/juni_logo.png)
+[لوگوی جونی](https://raw.githubusercontent.com/am-shm/juni_managemant_docs/main/docs/juni_logo.png)
